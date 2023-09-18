@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">frofilguru</string>
+    <string name="siswa">Siswa</string>
+    <string name="guru">Guru</string>
+    <string name="smk_negri_1_sayung">Smk Negri 1 Sayung</string>
+    <string name="profil_guru">Profil Guru</string>
+    <string name="button">Button</string>
+    <string name="nama_maryoko_s_pd">Nama: Maryoko,S.Pd</string>
+    <string name="todo">TODO</string>
+    <string name="nip_197911032022211003">NIP:197911032022211003</string>
+    <string name="mata_pelajaran_seni">Mata Pelajaran: Seni</string>
+    <string name="profil_siswa">Profil Siswa</string>
+    <string name="back">Back</string>
+    <string name="kelas_xi_pplg_1">Kelas: XI PPLG 1</string>
+    <string name="nama_muhammad_afiq_ardianta">Nama:Muhammad Afiq Ardianta</string>
+    <string name="nis_2233262">NIS: 2233262</string>
+</resources>
